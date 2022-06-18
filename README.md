@@ -8,7 +8,10 @@ Description
 
 The is the first homework Module that was due 06/17/2022 for the UW Coding Bootcamp. Main purpose of this module was to clean up the code and reduce redundancies  as well as make it more accessible.
 
-![alt text] (Finished_Screenshot.png)
+Screenshot
+
+![Finished_Screenshot](https://user-images.githubusercontent.com/31176226/174418752-58f15edd-e60a-449b-befe-ccc86bf7d24c.png)
+
 
 ---
 
@@ -47,3 +50,4 @@ Confidence in Assignment:
 ---
 
 Fairly good, this is the first time in a long time that I have turned in an assignment as well as sat down and lood at syntax. I feel I did a adiquite job of truncating down a lot of the code in the files, but time will tell. I feel like I need to get better about my commenting within the files and also be better at writing up a change log. Overall this was a good jumping in assignment and I am very excited for what comes next.
+
