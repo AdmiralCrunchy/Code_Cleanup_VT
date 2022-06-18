@@ -2,20 +2,24 @@
 
 ---
 
-Description
+## Description
 
 ---
 
 The is the first homework Module that was due 06/17/2022 for the UW Coding Bootcamp. Main purpose of this module was to clean up the code and reduce redundancies  as well as make it more accessible.
 
-Screenshot
+---
+
+## Screenshot
+
+---
 
 ![Finished_Screenshot](https://user-images.githubusercontent.com/31176226/174418752-58f15edd-e60a-449b-befe-ccc86bf7d24c.png)
 
 
 ---
 
-Notes:
+## Notes:
 
 ---
 
@@ -25,7 +29,7 @@ Going forward I will make sure to make the Repository first.
 
 ---
 
-Changes that were Made Before REPO
+## Changes that were Made Before REPO
 
 ---
 
@@ -45,7 +49,7 @@ Changes that were Made Before REPO
 
 ---
 
-Confidence in Assignment:
+## Confidence in Assignment:
 
 ---
 
